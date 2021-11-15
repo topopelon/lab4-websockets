@@ -40,3 +40,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 |--------|-----------|------|--------------|-------------|
 |[UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab4-websockets) | 30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab4-websockets/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab4-websockets/actions/workflows/ci.yml) |
 |        |           |      |              |             |
+[Jorge Laguna](https://github.com/topopelon/lab4-websockets/tree/test) | 735550 | [![Build Status](https://github.com/topopelon/lab4-websockets/actions/workflows/ci.yml/badge.svg)](https://github.com/topopelon/lab4-websockets/actions/workflows/ci.yml) | [ElizaServerTest](https://github.com/topopelon/lab4-websockets/blob/test/src/test/kotlin/websockets/ElizaServerTest.kt)
